@@ -1,3 +1,3 @@
 A.TDM-GCC 
 B.10.3.0
-C.
+C. Soporta la mayoria de versiones de C
